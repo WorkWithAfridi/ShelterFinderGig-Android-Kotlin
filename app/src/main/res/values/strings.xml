@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShelterFinder101</string>
+    <string name="suburb">Suburb...</string>
+    <string name="shelter_phone">Shelter Phone...</string>
+    <string name="shelter_email">Shelter Email...</string>
+    <string name="email_shelter">Email Shelter</string>
+    <string name="view_in_map">View In Map</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="shelter_name">Shelter Name</string>
+    <string name="address">Address</string>
+    <string name="suburbTextView">Suburb</string>
+    <string name="shelter_nameEdittext">Shelter Name...</string>
+    <string name="shelter_addressHint">Shelter Address...</string>
+</resources>
